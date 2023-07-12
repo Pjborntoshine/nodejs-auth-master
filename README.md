@@ -1,10 +1,9 @@
 # NodeJS Authentication App
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
-## Web App Link
-http://serene-headland-22338.herokuapp.com/
+prajwal
 
-![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
+![Screenshot (778)](https://github.com/Pjborntoshine/nodejs-auth-master/blob/85afd006957fd6d38f90d991aee4d58e25464da9/Screenshot%20(778).png)
 
 ## Technologies Used
 1.  NodeJS
@@ -26,7 +25,7 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Pjborntoshine/nodejs-auth-master.git`
 
 ##### Into the project directory
 
@@ -75,4 +74,4 @@ nodejs-auth <br>
 ├── package.json <br>
 ├── package-lock.json <br>
 ├── README.md <br>
-└── server.js <br>
+└── index.js <br>
